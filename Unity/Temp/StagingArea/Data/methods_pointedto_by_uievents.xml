@@ -1,0 +1,21 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="SceneChangeManager">
+			<method name="NextScene"/>
+			<method name="NextScene"/>
+			<method name="NextScene"/>
+			<method name="NextScene"/>
+			<method name="NextScene"/>
+			<method name="NextScene"/>
+			<method name="NextScene"/>
+			<method name="NextScene"/>
+			<method name="NextLevel"/>
+			<method name="Retry"/>
+			<method name="NextScene"/>
+			<method name="NextScene"/>
+			<method name="NextLevel"/>
+			<method name="Retry"/>
+			<method name="NextScene"/>
+		</type>
+	</assembly>
+</linker>
